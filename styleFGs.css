@@ -1,0 +1,45 @@
+header {
+    background-color: #333;
+    padding: 10px 0;
+    text-decoration: none !important;
+}
+body{
+    margin:0;
+}
+h1{
+    text-align: center;
+    font-family: "Comfortaa", sans-serif  !important;
+    text-decoration: underline white;
+    color: aliceblue;
+    
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    
+}
+h2{
+    font-family: "Comfortaa", sans-serif  !important;
+    color:#4F200D;
+    font-weight: 800;
+    padding: 10px;
+
+}
+p{
+    margin: 1%;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+ol{
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+ul{
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+section{
+    background-color: #F5F5F5;
+}
+a{
+    text-decoration: none !important;
+}
+h1:hover{
+    transform: scale(1.03);
+    text-decoration: none;
+}

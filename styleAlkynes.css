@@ -1,0 +1,57 @@
+header {
+    background-color: #333;
+    padding: 10px 0;
+    text-decoration: none !important;
+}
+body{
+    margin:0;
+}
+h1{
+    text-align: center;
+    font-family: "Comfortaa", sans-serif  !important;
+    color: aliceblue;
+    
+}
+.h1heading{
+    text-decoration: none !important;
+}
+h2{
+    font-family: "Comfortaa", sans-serif  !important;
+    color:#4F200D;
+    font-weight: 800;
+    /* padding: 10px; */
+    margin-left:3rem !important;
+
+}
+p{
+    /* margin: 1%; */
+    font-family: "Plus Jakarta Sans", sans-serif;
+    margin-left:3rem !important;
+
+}
+ol{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    margin-left:2rem !important;
+}
+ul{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    margin-left:0.5rem !important;
+}
+section{
+    background-color: #F5F5F5;
+    margin-right: 0 !important;
+}
+a{
+    text-decoration: none !important;
+}
+h1:hover{
+    color: aliceblue;
+    text-decoration: underline aliceblue;
+}
+hr{
+    width: 1450px;
+}
+.examples{
+    text-align: center;
+    font-size: 40px;
+}

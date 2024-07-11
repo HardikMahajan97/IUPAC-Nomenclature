@@ -1,0 +1,74 @@
+header{
+    background-color: #333;
+    color: #fff;
+    padding:10px;
+    /* width: 20rem; */
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-size:xx-large;
+    
+}
+body{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    background-color: rgb(177, 177, 178);
+    margin:0;
+}
+
+h3, h1, li {
+font-family: "Comfortaa", sans-serif  !important;
+}
+
+li {
+
+/* position: relative; */
+transition: 2s linear;
+}
+
+li a {
+text-decoration: none;
+color: #FFF;
+margin-bottom: 1.5rem;
+margin-right: 0.5rem;
+display: block;
+}
+
+.navbar{
+transition: 0.3s linear 0s;
+}
+.navbar:hover{
+    font-size:medium;
+    margin-left:1rem;
+}
+.content{
+    flex:1 !important;
+    margin-left: 0rem;
+    margin-top : 0rem;
+    margin-bottom: 2rem;
+    /* border-radius: 1%; */
+    padding: 1rem;  
+}
+.navmenu{
+    display: block;
+    margin-top:0;
+    width: 20rem;
+    position:relative;
+    height: 60.85rem;
+    overflow:auto;
+    background-color: #a22a2a;
+    
+}
+
+.footer{
+    height:50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0rem 0rem 1rem 0rem;
+}
+.mainbody{
+    display:flex;
+    
+}
