@@ -1,4 +1,6 @@
-#IUPAC Nomenclature
+## IUPAC Nomenclature
+
+## Introduction
 Hi everyone, My name is Hardik Mahajan.
 I got a very good opportunity to test my knowledge on HTML5 and CSS through my college project in first year.
 My chemistry project of building a basic website on topic: IUPAC Nomenclature, which had the basics about naming a hydrocarbon.
